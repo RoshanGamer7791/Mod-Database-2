@@ -1,0 +1,434 @@
+{
+  "custom_parts": [
+    {
+      "name": "More Parts",
+      "version": "4.0.3",
+      "author": "dani0105",
+      "platform": "PC and Mac",
+      "dependencies": [
+        "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
+      ],
+      "description": "Adds colonisation, ARPANET, and mining to sfs"
+    },
+    {
+      "name": "Procedual Parts",
+      "version": "1.2",
+      "author": "SFS.S9",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds procedual parts to SFS."
+    },
+    {
+      "name": "Better Parachutes by TSS",
+      "version": "1.2.1",
+      "author": "TechSky_Space",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds more parachutes to SFS."
+    },
+    {
+      "name": "RSA Parts",
+      "version": "1.3",
+      "author": "roshan",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds jet and steam engines to the game."
+    },
+    {
+      "name": "Kiwi Main Engines",
+      "version": "1.0.1",
+      "author": "ssdcat",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds a bunch of engines to the game."
+    },
+    {
+      "name": "Teo's Launch towers",
+      "version": "0.11",
+      "author": "TeodoroLSB",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds launchpad parts pack to SFS"
+    },
+    {
+      "name": "Mac's Sea Dragon Pack",
+      "version": "1.0.1",
+      "author": "Mac33299",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds sea dragon parts pack to SFS"
+    },
+    {
+      "name": "Teo's Engines Pack",
+      "version": "1.0.0",
+      "author": "TeodoroLSB",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds new engines to SFS."
+    },
+    {
+      "name": "Krazy Thief's Falcon 9 and Heavy Pack",
+      "version": "0.5.1.3 Alpha",
+      "author": "KrazyThief20543",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds detailed SpaceX Falcon 9 rocket parts and Starlink satellite components for realistic space missions"
+    },
+    {
+      "name": "Electricity Part Pack",
+      "version": "0.5",
+      "author": "N204",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds back the electricity system from 1.4"
+    },
+    {
+      "name": "Star Motors Pack",
+      "version": "Beta 54",
+      "author": "Lemniscate Biscuit",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds Star Motors to the game."
+    },
+    {
+      "name": "Advanced Cryogenic Engines",
+      "version": "1.15",
+      "author": "Lemniscate Biscuit",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds many modern or advanced engines to the game."
+    },
+    {
+      "name": "RL Redux",
+      "version": "1.5.6.5",
+      "author": "Lemniscate Biscuit",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds the HUGE RL10 family to the game."
+    },
+    {
+      "name": "Florine propulsion systems",
+      "version": "1.0.16",
+      "author": "Lemniscate Biscuit",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds florine engines to the game."
+    },
+    {
+      "name": "BR-Apollo",
+      "version": "1.3.1",
+      "author": "Brioche",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds Apollo Program Parts"
+    },
+    {
+      "name": "Picospace Industries Utility Mod",
+      "version": "0.5",
+      "author": "Picospace Industries",
+      "platform": "PC and Mac",
+      "dependencies": [
+        "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
+      ],
+      "description": "A utility pack with a bunch of things like truss seperators and vertical landing gear"
+    },
+    {
+      "name": "Dynamic Engine Effects",
+      "version": "1.1",
+      "author": "jsudo",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds the stock engines with dynamic plumes"
+    },
+    {
+      "name": "Kursed Engines",
+      "version": "1.0",
+      "author": "AarohanTheAscender",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "A bunch of kursed engines"
+    },
+    {
+      "name": "Explorer's Ultimate Pack",
+      "version": "0.6",
+      "author": "QMSP",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "It is the explorers ultimate pack, which includes grid fins, electricty system and multiple engines and a drouge chute"
+    },
+    {
+      "name": "New Parts Mod",
+      "version": "2.4",
+      "author": "SFS BETTER",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds better engines and capsules"
+    },
+    {
+      "name": "Vanguard Engine",
+      "version": "1.0",
+      "author": "FPE Fan",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds a powerful engine"
+    },
+    {
+      "name": "Electron Pack",
+      "version": "1.1",
+      "author": "SenchQ",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "It adds the electron rocket parts"
+    },
+        {
+      "name": "Stopgap Engines",
+      "version": "1.01",
+      "author": "J3 Mângo",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "They fill in the gaps for the engines in the game"
+    },
+    {
+      "name": "Advanced Engine Pack",
+      "version": "1.3.1",
+      "author": "Orion",
+      "platform": "PC and Mac",
+      "dependencies": [
+        "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
+      ],
+      "description": "Adds advanced engines for long journeys"
+    },
+    {
+      "name": "GWTM Starship Mod for SFS",
+      "version": "Beta",
+      "author": "Space_Crab",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds Starship parts"
+    },
+    {
+      "name": "Inflatable Heat Shield",
+      "version": "1.2.1",
+      "author": "Juan Angel B747",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds inflatable heat shields"
+    },
+    {
+      "name": "Kerbal Flight Simulator",
+      "version": "1.1.0.1",
+      "author": "Mac33299",
+      "platform": "PC and Mac",
+      "dependencies": [
+        "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
+      ],
+      "description": "Adds KSP Parts into SFS"
+    },
+    {
+      "name": "Artemis Program",
+      "version": "1.0.0 Beta",
+      "author": "leroxy2_0",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds Atermis Program parts"
+    },
+    {
+      "name": "Titan Rocket",
+      "version": "1.0.0",
+      "author": "leroxy2_0",
+      "platform": "PC and Mac",
+      "dependencies": [
+        "https://github.com/Cryptowave2-0/gemini_mod_part_for_sfs/releases/latest/download/Gemini.pack"
+      ],
+      "description": "Adds Titan Rocket parts to SFS"
+    },
+    {
+      "name": "Gemini Program",
+      "version": "1.0.2",
+      "author": "leroxy2_0",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds Gemini Program Parts"
+    },
+    {
+      "name": "Lasers Mod",
+      "version": "1.0.0",
+      "author": "Wurnace",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds Lasers and Nukes to SFS"
+    },
+    {
+      "name": "Hopiter's Nuclear Engines",
+      "version": "1.4",
+      "author": "Hopiter",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "This mod adds a lot things about nuclear spaceships and others"
+    },
+    {
+      "name": "New Horizons - Addon for BR-Apollo",
+      "version": "Beta 0.5.1",
+      "author": "Mac33299",
+      "platform": "PC and Mac",
+      "dependencies": [
+        "https://github.com/briocherockets/BR-Apollo/releases/download/1.3.1/BR-Apollo_v1.3.pack"
+      ],
+      "description": "Addon for BR-Apollo | Adding cancelled-concept and more."
+    },
+    {
+      "name": "Lifting body aerodynamics",
+      "version": "1.2",
+      "author": "Vapour Space",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Contains lifting body and wing parts"
+    },
+    {
+      "name": "Heat Shield Tiles Pack",
+      "version": "1.0",
+      "author": "NeptuneSky",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds stackable heat shield tiles"
+    },
+    {
+      "name": "Vinnys Engine Pack",
+      "version": "1.1.1",
+      "author": "Vinny",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds engines to the game"
+    },
+    {
+      "name": "Cargo Parts Mod",
+      "version": "1.0",
+      "author": "AstarLC",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds cargo-related parts"
+    },
+    {
+      "name": "Better RCS",
+      "version": "1.0",
+      "author": "VTPlayz",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds stronger 1-way RCS"
+    },
+    {
+      "name": "Recoleto's Detailed Engines Pack (RDEP)",
+      "version": "3.0.0",
+      "author": "Recoleto",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds detailed engines"
+    },
+    {
+      "name": "Mac Tabletop Radio",
+      "version": "1.0",
+      "author": "Mac33299",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds a radio into the game"
+    },
+    {
+      "name": "Vanilla+",
+      "version": "0.2.2",
+      "author": "Invintex",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Enhances vanilla gameplay"
+    },
+    {
+      "name": "Brioche Forklift",
+      "version": "1.0.0",
+      "author": "Brioche",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds a forklift"
+    },
+    {
+      "name": "N204 Drouge Chutes",
+      "version": "1.1",
+      "author": "N204",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds drogue chutes"
+    },
+    {
+      "name": "Realistic Docking Ports",
+      "version": "0.2.6",
+      "author": "SFS Upgrades Rocket",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds NASA-style docking ports"
+    },
+    {
+      "name": "Starlink Satitlite Dishes",
+      "version": "0.1.7",
+      "author": "SFS Upgrades Rocket",
+      "platform": "PC and Mac",
+      "dependencies": [
+        "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
+      ],
+      "description": "Adds Starlink dishes"
+    },
+    {
+      "name": "Dahzito's Custom Engines",
+      "version": "0.6.1",
+      "author": "Dahzito",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds multiple custom engines"
+    },
+    {
+      "name": "Lurins New Fuels",
+      "version": "1.0.0",
+      "author": "Ludwig",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds new rocket fuels"
+    },
+    {
+      "name": "Lurin's Things",
+      "version": "0.3.0",
+      "author": "Ludwig",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Misc useful parts"
+    },
+    {
+      "name": "Prime Aerospace Engines",
+      "version": "1.0",
+      "author": "Prime Aerospace",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds 9 engines"
+    },
+    {
+      "name": "Prime Aerospace Cursed Engines",
+      "version": "1.0.1",
+      "author": "Prime Aerospace",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds cursed engines"
+    },
+    {
+      "name": "Prime Aerospace Advanced Engines",
+      "version": "1.0",
+      "author": "Prime Aerospace",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds advanced engines"
+    },
+    {
+      "name": "Prime Aerospace SpaceX",
+      "version": "4.0",
+      "author": "Prime Aerospace",
+      "platform": "PC and Mac",
+      "dependencies": [],
+      "description": "Adds SpaceX rockets"
+    }
+  ]
+}

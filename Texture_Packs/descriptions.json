@@ -1,0 +1,74 @@
+{
+  "texture_packs": [
+    {
+      "name": "PEx Shapes+",
+      "version": "1.0",
+      "author": "Prox_xima",
+      "platform": "PC and Mac",
+      "file": "PEx Shapes+.zip",
+      "link": null,
+      "description": "It adds 10 new shape textures",
+      "dependencies": []
+    },
+    {
+      "name": "Roshans Textures",
+      "version": "1.3",
+      "author": "Roshan",
+      "platform": "PC and Mac",
+      "file": "Roshans Textures.zip",
+      "link": null,
+      "description": "It has many flags from the RSA",
+      "dependencies": []
+    },
+    {
+      "name": "MoTextures",
+      "version": "1.0",
+      "author": "TYavaJ",
+      "platform": "PC and Mac",
+      "file": "MoTextures-Release.zip",
+      "link": null,
+      "description": "The biggest SFS Texture Pack",
+      "dependencies": []
+    },
+    {
+      "name": "Spaces Textures",
+      "version": "1.1",
+      "author": "ILikeSpace",
+      "platform": "PC and Mac",
+      "file": "Spaces Textures.zip",
+      "link": null,
+      "description": "Has textures for alot of space agencies",
+      "dependencies": []
+    },
+    {
+      "name": "Metalic Textures",
+      "version": "1.0",
+      "author": "Altiar",
+      "platform": "PC and Mac",
+      "file": "Metallic textures.zip",
+      "link": null,
+      "description": "Adds metalic textures to SFS",
+      "dependencies": []
+    },
+    {
+      "name": "Clear Texture Pack",
+      "version": "1.0",
+      "author": "Darthan",
+      "platform": "PC and Mac",
+      "file": "ClearTexturePack.zip",
+      "link": null,
+      "description": "I've created a small set of clear textures.",
+      "dependencies": []
+    },
+    {
+      "name": "PEx Basics+",
+      "version": "0.91",
+      "author": "Prox_xima",
+      "platform": "PC and Mac",
+      "file": "PEx Basics+ 0.91.zip",
+      "link": null,
+      "description": "Hello all, these are just a few basic textures that I like to use regularly to add a little visual depth.",
+      "dependencies": []
+    }
+  ]
+}

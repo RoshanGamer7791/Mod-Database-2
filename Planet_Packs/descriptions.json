@@ -1,0 +1,158 @@
+{
+  "planet_packs": [
+    {
+      "name": "Arithos System",
+      "author": "ilikespace",
+      "version": "1.4",
+      "description": "Adds a custom trinary system",
+      "size": "2.13 MB",
+      "file": "Arithos System.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "New Frontiers",
+      "author": "ilikespace",
+      "version": "1.2.1",
+      "description": "Adds the rest the solar system and a few other stars",
+      "size": "4.36 MB",
+      "file": "New Frontiers.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Solar System Reimagined",
+      "author": "EverybodyAntsButCooler",
+      "version": "1.11",
+      "description": "Completely redesigns the solar system",
+      "size": "15.1 MB",
+      "file": "Solar System Reimagined 1.11.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Future Solar System",
+      "author": "roshan",
+      "version": "1.4",
+      "description": "Adds a solar system set 5 billion years in the future",
+      "size": "33.4 MB",
+      "file": "Future Solar System.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Klann",
+      "author": "Ludwig",
+      "version": "1.0",
+      "description": "Adds a highly detailed planet between the orbits of Venus and Earth",
+      "size": "2.32 MB",
+      "file": "Klann.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Carvar Solar System",
+      "author": "SandaiElChileno",
+      "version": "1.0",
+      "description": "Changes our system to one with 5 planets",
+      "size": "3.66 MB",
+      "file": "Carvar system 1.0.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Astronisis System",
+      "author": "Space Observer",
+      "version": "1.0",
+      "description": "Adds a red dwarf system with some visuals",
+      "size": "23.93 MB",
+      "file": "Astronisis.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Ludwig Solar System (Low End)",
+      "author": "Ludwig",
+      "version": "1.5",
+      "description": "Adds the outer planets and more (could only add this because the main version was over 100MB and this repo doesnt have LFS)",
+      "size": "63.8 MB",
+      "file": "Ludwig Solar System 1.5 Low-End.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Better Stock System",
+      "author": "roshan",
+      "version": "1.2",
+      "description": "Improves the stock system with visuals",
+      "size": "8 MB",
+      "file": "Better Stock System.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Mini Milky Way",
+      "author": "Cresign",
+      "version": "1.6.02",
+      "description": "Adds 300+ Stars in the milky way",
+      "size": "33 MB",
+      "file": "Mini Milky Way 1.6.02.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Ivraca System",
+      "author": "ilikespace",
+      "version": "1.1",
+      "description": "Replaces the solar system with a different yet similar one",
+      "size": "1.3 MB",
+      "file": "Ivraca System.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Visuals Beyønd",
+      "author": "MasteqCheerz1504",
+      "version": "0.2.4 Beta",
+      "description": "Adds Visuals to the solar system",
+      "size": "60 MB",
+      "file": "Visuals Beyønd (Original Beta v0.2.4).zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Ruvan System",
+      "author": "StarSubject",
+      "version": "1.0",
+      "description": "Adds a custom 'galaxy' with 3 stars",
+      "size": "19 MB",
+      "file": "Ruvan.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Go Beyond",
+      "author": "AstroM",
+      "version": "5.0",
+      "description": "Adds the 4 of our nearby galaxies with fictional systems",
+      "size": "87.7 MB",
+      "file": "Via Láctea 3.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Sagralis Galaxy",
+      "author": "ilikespace",
+      "version": "1.1",
+      "description": "Adds a galaxy with 3 very finished systems",
+      "size": "8.38 MB",
+      "file": "Sagralis Galaxy.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Poronim System",
+      "author": "ilikespace",
+      "version": "1.0.1",
+      "description": "Replaces the solar system with a binary A and L type system",
+      "size": "1.38 MB",
+      "file": "Poronim System.zip",
+      "compat": "1.5.xx.x"
+    },
+    {
+      "name": "Space's Remade Solar System",
+      "author": "ilikespace",
+      "version": "1.0",
+      "description": "Adds some stuff to our system",
+      "size": "946 KB",
+      "file": "Space's Remade Solar System.zip",
+      "compat": "1.6.xx.x"
+    }
+  ]
+}
+
