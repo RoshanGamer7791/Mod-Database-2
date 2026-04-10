@@ -1,28 +1,332 @@
 {
-    "mods": [
-        {
-            "name": "Hyperwarp",
-            "version": "1.0",
-            "author": "StarSubject",
-            "platform": "PC and Mac",
-            "file": "Hyperwarp.dll",
-            "link": null
-        },
-        {
-            "name": "Show All Orbit Lines",
-            "version": "1.0",
-            "author": "SFSGamer-billi",
-            "platform": "PC and Mac",
-            "file": "ShowAllOrbitLines.dll",
-            "link": null
-        },
-        {
-            "name": "Spaceflight Simulator: Australia Edition",
-            "version": "1.0",
-            "author": "VerdiX",
-            "platform": "PC and Mac",
-            "file": "UpsideDown2025.dll",
-            "link": null
-        }
-    ]
+  "mods": [
+    {
+      "name": "Vanilla Upgrades",
+      "version": "5.3",
+      "author": "NeptuneSky",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/Neptune-Sky/SFSVanillaUpgrades/releases/latest/download/VanillaUpgrades.dll"
+    },
+    {
+      "name": "ANAIS",
+      "version": "1.4.2",
+      "author": "Altiar",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/Kaskouy/ANAIS/releases/latest/download/ANAIS.dll"
+    },
+    {
+      "name": "Textureable",
+      "version": "0.2.1-beta",
+      "author": "NeptuneSky",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/Neptune-Sky/SFSTexturable/releases/latest/download/Texturable.dll"
+    },
+    {
+      "name": "Aero Trajectory",
+      "version": "1.4",
+      "author": "Astro The Rabbit",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/AstroTheRabbit/Aero-Trajectory-SFS/releases/latest/download/AeroTrajectory.dll"
+    },
+    {
+      "name": "Part Editor",
+      "version": "1.0",
+      "author": "Cucumber Space",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/cucumber-sp/PartEditor/releases/latest/download/PartEditor.dll"
+    },
+    {
+      "name": "Thrust Assist",
+      "version": "0.7",
+      "author": "Darthan",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/Darthan184/Thrust-Assist-SFS1/releases/latest/download/ThrustAssistMod.dll"
+    },
+    {
+      "name": "Action Groups Mod",
+      "version": "1.3",
+      "author": "Astro The Rabbit",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/AstroTheRabbit/Action-Groups-Mod-SFS/releases/latest/download/ActionGroupsMod.dll"
+    },
+    {
+      "name": "Custom Save Data",
+      "version": "1.0",
+      "author": "Astro The Rabbit",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/AstroTheRabbit/Custom-Save-Data-SFS/releases/latest/download/CustomSaveData.dll"
+    },
+    {
+      "name": "Smart SAS",
+      "version": "1.7",
+      "author": "Astro The Rabbit",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/pixelgaming579/Smart-SAS-Mod-SFS/releases/latest/download/SmartSASMod.dll"
+    },
+    {
+      "name": "Info Overload",
+      "version": "2.4",
+      "author": "Fusion Space Industries",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/AstroTheRabbit/FSI-Info-Overload-Mod-SFS/releases/latest/download/InfoOverload.dll"
+    },
+    {
+      "name": "Hyperwarp",
+      "version": "1.0",
+      "author": "ssdcat/StarSubject",
+      "platform": "PC and Mac",
+      "file": "Hyperwarp.dll",
+      "link": null
+    },
+    {
+      "name": "Random Failures Legacy",
+      "version": "1.0.0",
+      "author": "TheAlgorithm476",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/TheAlgorithm476/RandomFailuresLegacy/releases/latest/download/RandomFailuresLegacy.dll"
+    },
+    {
+      "name": "Colored Orbits",
+      "version": "1.0",
+      "author": "Altiar",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/Kaskouy/Colored-Orbits/releases/latest/download/ColoredOrbits.dll"
+    },
+    {
+      "name": "Delta V Calculator",
+      "version": "1.0",
+      "author": "Altiar",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/Kaskouy/SFS-DeltaV-calculator/releases/latest/download/DeltaV_Calculator.dll"
+    },
+    {
+      "name": "Alternate Space Center support for custom solar systems",
+      "version": "1.1.1",
+      "author": "Darthan",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/Darthan184/Multi-Launchpad-SFS1/releases/download/v1.1.1/MultiLaunchpadMod.dll"
+    },
+    {
+      "name": "Colour Resources Bar",
+      "version": "1.0",
+      "author": "SFSGamer-bili",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/SFSPlayer-sys/ColorResBar/releases/latest/download/ColorResBar.dll"
+    },
+    {
+      "name": "Discord Rich Presence",
+      "version": "1.1",
+      "author": "N204",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/VerdiX094/RichPresenceSFS/releases/latest/download/RichPresenceSFS.dll"
+    },
+    {
+      "name": "ALPACA - Mod Installer",
+      "version": "1.3",
+      "author": "ssdcat/Starsubject",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/ssdcat/ALPACA/releases/download/Newupdates/ALPACA.dll"
+    },
+    {
+      "name": "Blueprint Image",
+      "version": "1.1",
+      "author": "SFSGamer-bili",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/SFSPlayer-sys/BlueprintImage/releases/latest/download/BlueprintImage.dll"
+    },
+    {
+      "name": "Translation Mod",
+      "version": "1.0.1",
+      "author": "SFSGamer-bili",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/SFSPlayer-sys/TranslationMod/releases/latest/download/Translation.dll"
+    },
+    {
+      "name": "Burn Editor",
+      "version": "1.0.3",
+      "author": "SFSGamer-bili",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/SFSPlayer-sys/BurnEditor/releases/download/BurnEditor.dll"
+    },
+    {
+      "name": "SFS APIs",
+      "version": "1.2",
+      "author": "SFSGamer-bili",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/SFSPlayer-sys/SFSControl/releases/latest/downloadSFSControl.dll"
+    },
+    {
+      "name": "Enchanced Settings",
+      "version": "1.0.0",
+      "author": "SFSGamer-bili",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/SFSPlayer-sys/Enhancedsettings/releases/latest/download/Enhanced.settings.dll"
+    },
+    {
+      "name": "Gliding Heat Shields",
+      "version": "1.4",
+      "author": "Altiar",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/Kaskouy/SFS-Gliding-heat-shields/releases/latest/download/GlidingHeatShields.dll"
+    },
+    {
+      "name": "Custom Music",
+      "version": "2.0.2",
+      "author": "NeptuneSky",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/Neptune-Sky/SFSCustomMusic/releases/latest/download/CustomMusic.dll"
+    },
+    {
+      "name": "Build Screen Utilities",
+      "version": "1.1",
+      "author": "NeptuneSky",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/Neptune-Sky/SFSBuildGridUtils/releases/latest/download/BuildGridUtils.dll"
+    },
+    {
+      "name": "Warpinator",
+      "version": "0.8.3-alpha",
+      "author": "NeptuneSky",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/Neptune-Sky/SFSWarpinator/releases/latest/download/Warpinator.dll"
+    },
+    {
+      "name": "SFS Build Settings",
+      "version": "2.1.5.1",
+      "author": "NeptuneSky",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/Neptune-Sky/SFSBuildSettings/releases/latest/download/BuildSettings.dll"
+    },
+    {
+      "name": "SFS Zoom Keys",
+      "version": "1.0.3",
+      "author": "NeptuneSky",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/Neptune-Sky/SFSZoomKeys/releases/latest/download/SFSZoomKeys.dll"
+    },
+    {
+      "name": "Part Text",
+      "version": "1.1",
+      "author": "Astro The Rabbit",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/AstroTheRabbit/Part-Text-Mod-SFS/releases/latest/download/PartText.dll"
+    },
+    {
+      "name": "Forceful Fuel Tanks",
+      "version": "1.0",
+      "author": "Astro The Rabbit",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/pixelgaming579/Forceful-Fuel-Tanks-SFS/releases/latest/download/ForcefulFuelTanks.dll"
+    },
+    {
+      "name": "Object Search Mod",
+      "version": "1.0",
+      "author": "IDOMDOTCOM",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/IDOMDOTCOM/SFS-Object-Search-Mod/releases/latest/download/Object.Search.dll"
+    },
+    {
+      "name": "Image Cover Mod",
+      "version": "1.0.1",
+      "author": "AstarLC",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/AstarLC4036/ImageCoverMod/releases/latest/download/ImageCoverMod.dll"
+    },
+    {
+      "name": "Frame Rate Lock Mod",
+      "version": "1.0.1",
+      "author": "DarkSpace",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/DarkSpaceY/FrameRateLockMod/releases/latest/download/FrameLockMod.dll"
+    },
+    {
+      "name": "More Commands in Console",
+      "version": "1.0.0",
+      "author": "DarkSpace",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/DarkSpaceY/ConsoleMOD/releases/latest/download/ConsoleMOD.dll"
+    },
+    {
+      "name": "Teleporter Mod",
+      "version": "2.0",
+      "author": "N204",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/DinitrogenTetroxide/TeleporterMod/releases/latest/download/Teleporter.dll"
+    },
+    {
+      "name": "Spaceflight Simulator: Australia Edition (APRIL FOOLS 2025)",
+      "version": "April Fools Edition",
+      "author": "N204",
+      "platform": "PC and Mac",
+      "file": "UpsideDown2025.dll",
+      "link": null
+    },
+    {
+      "name": "Custom Challenges Mod",
+      "version": "1.0",
+      "author": "Darthan",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/Darthan184/Custom-Challenges-SFS1/releases/latest/CustomChallengesMod.dll"
+    },
+    {
+      "name": "Show All Orbit Lines",
+      "version": "1.0",
+      "author": "SFSGamer-bili",
+      "platform": "PC and Mac",
+      "file": "ShowAllOrbitLines.dll",
+      "link": null
+    },
+    {
+      "name": "Stages Expanded",
+      "version": "1.1",
+      "author": "Astro The Rabbit",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/AstroTheRabbit/Stages-Expanded-Mod-SFS/releases/latest/download/StagesExpanded.dll"
+    },
+    {
+      "name": "Physics Range Extender",
+      "version": "1.0",
+      "author": "Astro The Rabbit",
+      "platform": "PC and Mac",
+      "file": null,
+      "link": "https://github.com/AstroTheRabbit/Physics-Range-Extender-SFS/releases/latest/download/PhysicsRangeExtender.dll"
+    }
+  ]
 }
