@@ -1,0 +1,28 @@
+{
+    "mods": [
+        {
+            "name": "Hyperwarp",
+            "version": "1.0",
+            "author": "StarSubject",
+            "platform": "PC and Mac",
+            "file": "Hyperwarp.dll",
+            "link": null
+        },
+        {
+            "name": "Show All Orbit Lines",
+            "version": "1.0",
+            "author": "SFSGamer-billi",
+            "platform": "PC and Mac",
+            "file": "ShowAllOrbitLines.dll",
+            "link": null
+        },
+        {
+            "name": "Spaceflight Simulator: Australia Edition",
+            "version": "1.0",
+            "author": "VerdiX",
+            "platform": "PC and Mac",
+            "file": "UpsideDown2025.dll",
+            "link": null
+        }
+    ]
+}
