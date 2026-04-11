@@ -191,184 +191,6 @@
       "platform": "PC and Mac",
       "file": "Explorer's Ultimate Pack v0.6.pack",
       "link": null,
-      "dependencies": [],
-      "description": "Includes grid fins, electricity system and multiple engines and a drogue chute"
-    },
-    {
-      "name": "New Parts Mod",
-      "version": "2.4",
-      "author": "SFS BETTER",
-      "platform": "PC and Mac",
-      "file": "New Parts Mod 2.4.pack",
-      "link": null,
-      "dependencies": [],
-      "description": "Adds better engines and capsules"
-    },
-    {
-      "name": "Vanguard Engine",
-      "version": "1.0",
-      "author": "FPE Fan",
-      "platform": "PC and Mac",
-      "file": "Vanguard Engine.pack",
-      "link": null,
-      "dependencies": [],
-      "description": "Adds a powerful engine"
-    },
-    {
-      "name": "Electron Pack",
-      "version": "1.1",
-      "author": "SenchQ",
-      "platform": "PC and Mac",
-      "file": "Electron-Pack-1.1.pack",
-      "link": null,
-      "dependencies": [],
-      "description": "Adds the electron rocket parts"
-    },
-    {
-      "name": "Stopgap Engines",
-      "version": "1.01",
-      "author": "J3 Mângo",
-      "platform": "PC and Mac",
-      "file": "SGE V1.01.pack",
-      "link": null,
-      "dependencies": [],
-      "description": "They fill in the gaps for the engines in the game"
-    },
-    {
-      "name": "Advanced Engine Pack",
-      "version": "1.3.1",
-      "author": "Orion",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Orion-CSAT/AEP/releases/download/v1.3.1/AEP.1.3.1.pack",
-      "dependencies": [
-        "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
-      ],
-      "description": "Adds advanced engines for long journeys"
-    },
-    {
-      "name": "GWTM Starship Mod for SFS",
-      "version": "Beta",
-      "author": "Space_Crab",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/space-crab/GWTM-SFS-Starship-Mod/releases/download/GWTM/GWTM.Beta.pack",
-      "dependencies": [],
-      "description": "Adds Starship parts"
-    },
-    {
-      "name": "Inflatable Heat Shield",
-      "version": "1.2.1",
-      "author": "Juan Angel B747",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/juan-angel-b747/inflatable-heat-shield/releases/download/correction/IHC_1.2.1.pack",
-      "dependencies": [],
-      "description": "Adds inflatable heat shields"
-    },
-    {
-      "name": "Kerbal Flight Simulator",
-      "version": "1.1.0.1",
-      "author": "Mac33299",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Mac33299/Kerbal-Flight-Simulator/releases/download/1.1.0.1/KFS_1.1.0.1_Along_for_the_ride.pack",
-      "dependencies": [
-        "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
-      ],
-      "description": "Adds KSP Parts into SFS"
-    },
-    {
-      "name": "Artemis Program",
-      "version": "1.0.0 Beta",
-      "author": "leroxy2_0",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Cryptowave2-0/artemis_program_mod_part_for_sfs/releases/latest/download/Artemis.Program.Pack",
-      "dependencies": [],
-      "description": "Adds Artemis Program parts"
-    },
-    {
-      "name": "Titan Rocket",
-      "version": "1.0.0",
-      "author": "leroxy2_0",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Cryptowave2-0/titan_mod_part_for_sfs/releases/latest/download/Titan.pack",
-      "dependencies": [
-        "https://github.com/Cryptowave2-0/gemini_mod_part_for_sfs/releases/latest/download/Gemini.pack"
-      ],
-      "description": "Adds Titan Rocket parts to SFS"
-    },
-    {
-      "name": "Gemini Program",
-      "version": "1.0.2",
-      "author": "leroxy2_0",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Cryptowave2-0/gemini_mod_part_for_sfs/releases/latest/download/Gemini.pack",
-      "dependencies": [],
-      "description": "Adds Gemini Program Parts"
-    },
-    {
-      "name": "Lasers Mod",
-      "version": "1.0.0",
-      "author": "Wurnace",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/guunno/sfs-lasers/releases/latest/download/lasers.pack",
-      "dependencies": [],
-      "description": "Adds Lasers and Nukes to SFS"
-    },
-    {
-      "name": "Hopiter's Nuclear Engines",
-      "version": "1.4",
-      "author": "Hopiter",
-      "platform": "PC and Mac",
-      "file": "Hopiter's Nuclear Engines.pack",
-      "link": null,
-      "dependencies": [],
-      "description": "This mod adds nuclear spacecraft parts"
-    },
-    {
-      "name": "New Horizons - Addon for BR-Apollo",
-      "version": "Beta 0.5.1",
-      "author": "Mac33299",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Mac33299/New-Horizons/releases/download/0.5.1/New.horizons.-.BR-Apollo.v0.5.1.pack",
-      "dependencies": [
-        "https://github.com/briocherockets/BR-Apollo/releases/download/1.3.1/BR-Apollo_v1.3.pack"
-      ],
-      "description": "Addon for BR-Apollo | Adding cancelled concepts and more"
-    },
-    {
-      "name": "Dynamic Engine Effects",
-      "version": "1.1",
-      "author": "jsudo",
-      "platform": "PC and Mac",
-      "file": "DynamicEngineEffects.pack",
-      "link": "https://github.com/jsud0/Dynamic-Engines/releases/latest/download/DynamicEngineEffects.pack",
-      "description": "Adds the stock engines with dynamic plumes",
-      "dependencies": []
-    },
-    {
-      "name": "Kursed Engines",
-      "version": "1.0",
-      "author": "AarohanTheAscender",
-      "platform": "PC and Mac",
-      "file": "Kursed Engines.pack",
-      "link": null,
-      "description": "A bunch of kursed engines",
-      "dependencies": []
-    },
-    {
-      "name": "Explorer's Ultimate Pack",
-      "version": "0.6",
-      "author": "QMSP",
-      "platform": "PC and Mac",
-      "file": "Explorer's Ultimate Pack v0.6.pack",
-      "link": null,
       "description": "It is the explorers ultimate pack, which includes grid fins, electricity system and multiple engines and a drogue chute",
       "dependencies": []
     },
@@ -417,7 +239,7 @@
       "version": "1.3.1",
       "author": "Orion",
       "platform": "PC and Mac",
-      "file": "AEP.1.3.1.pack",
+      "file": null,
       "link": "https://github.com/Orion-CSAT/AEP/releases/download/v1.3.1/AEP.1.3.1.pack",
       "description": "Adds advanced engines for long journeys",
       "dependencies": [
@@ -429,7 +251,7 @@
       "version": "Beta",
       "author": "Space_Crab",
       "platform": "PC and Mac",
-      "file": "GWTM.Beta.pack",
+      "file": null,
       "link": "https://github.com/space-crab/GWTM-SFS-Starship-Mod/releases/download/GWTM/GWTM.Beta.pack",
       "description": "Adds Starship parts",
       "dependencies": []
@@ -439,7 +261,7 @@
       "version": "1.2.1",
       "author": "Juan Angel B747",
       "platform": "PC and Mac",
-      "file": "IHC_1.2.1.pack",
+      "file": null,
       "link": "https://github.com/juan-angel-b747/inflatable-heat-shield/releases/download/correction/IHC_1.2.1.pack",
       "description": "Adds inflatable heat shields",
       "dependencies": []
@@ -449,7 +271,7 @@
       "version": "1.1.0.1",
       "author": "Mac33299",
       "platform": "PC and Mac",
-      "file": "KFS_1.1.0.1_Along_for_the_ride.pack",
+      "file": null,
       "link": "https://github.com/Mac33299/Kerbal-Flight-Simulator/releases/download/1.1.0.1/KFS_1.1.0.1_Along_for_the_ride.pack",
       "description": "Adds KSP Parts into SFS",
       "dependencies": [
@@ -461,7 +283,7 @@
       "version": "1.0.0 Beta",
       "author": "leroxy2_0",
       "platform": "PC and Mac",
-      "file": "Artemis.Program.Pack",
+      "file": null,
       "link": "https://github.com/Cryptowave2-0/artemis_program_mod_part_for_sfs/releases/latest/download/Artemis.Program.Pack",
       "description": "Adds Artemis Program parts",
       "dependencies": []
@@ -471,7 +293,7 @@
       "version": "1.0.0",
       "author": "leroxy2_0",
       "platform": "PC and Mac",
-      "file": "Titan.pack",
+      "file": null,
       "link": "https://github.com/Cryptowave2-0/titan_mod_part_for_sfs/releases/latest/download/Titan.pack",
       "description": "Adds Titan Rocket parts to SFS",
       "dependencies": [
@@ -483,7 +305,7 @@
       "version": "1.0.2",
       "author": "leroxy2_0",
       "platform": "PC and Mac",
-      "file": "Gemini.pack",
+      "file": null,
       "link": "https://github.com/Cryptowave2-0/gemini_mod_part_for_sfs/releases/latest/download/Gemini.pack",
       "description": "Adds Gemini Program Parts",
       "dependencies": []
@@ -493,7 +315,7 @@
       "version": "1.0.0",
       "author": "Wurnace",
       "platform": "PC and Mac",
-      "file": "lasers.pack",
+      "file": null,
       "link": "https://github.com/guunno/sfs-lasers/releases/latest/download/lasers.pack",
       "description": "Adds Lasers and Nukes to SFS",
       "dependencies": []
@@ -513,7 +335,7 @@
       "version": "Beta 0.5.1",
       "author": "Mac33299",
       "platform": "PC and Mac",
-      "file": "New.horizons.-.BR-Apollo.v0.5.1.pack",
+      "file": null,
       "link": "https://github.com/Mac33299/New-Horizons/releases/download/0.5.1/New.horizons.-.BR-Apollo.v0.5.1.pack",
       "description": "Addon for BR-Apollo | Adding cancelled-concept and more.",
       "dependencies": [
@@ -525,7 +347,7 @@
       "version": "1.2",
       "author": "Vapour Space",
       "platform": "PC and Mac",
-      "file": "LiftingBodies.pack",
+      "file": null,
       "link": "https://github.com/VaporSpace2/SFSAerodynamicLift/releases/latest/download/LiftingBodies.pack",
       "description": "An SFS mod that contains a wing part (just a fuel tank thats lighter and has less fuel) and a lifting body fuel tank.",
       "dependencies": []
@@ -535,7 +357,7 @@
       "version": "1.0",
       "author": "NeptuneSky",
       "platform": "PC and Mac",
-      "file": "heatshieldtiles.pack",
+      "file": null,
       "link": null,
       "description": "Stackable heat shield tiles for custom heat shielding designs.",
       "dependencies": []
@@ -545,7 +367,7 @@
       "version": "1.1.1",
       "author": "Vinny",
       "platform": "PC and Mac",
-      "file": "Hu-Vinny.s.Engine.Pack.pack",
+      "file": null,
       "link": "https://github.com/Hu-Vinny/Hu-Vinny-s-Engine-Mod/releases/latest/download/Hu-Vinny.s.Engine.Pack.pack",
       "description": "Hello, and welcome to my first custom parts! This mod adds engines!",
       "dependencies": []
@@ -565,7 +387,7 @@
       "version": "1.0",
       "author": "VTPlayz",
       "platform": "PC and Mac",
-      "file": "BetterRCS.pack",
+      "file": null,
       "link": "https://github.com/VTplayz/Better-RCS/releases/latest/download/BetterRCS.pack",
       "description": "Improved 1-way RCS systems for better control.",
       "dependencies": []
@@ -585,7 +407,7 @@
       "version": "1.0",
       "author": "Mac33299",
       "platform": "PC and Mac",
-      "file": "MTRP_1.0.pack",
+      "file": null,
       "link": "https://github.com/Mac33299/Mac-Tabletop-Radio/releases/download/1.0/MTRP_1.0.pack",
       "description": "A radio in Spaceflight Simulator for reasons....",
       "dependencies": []
@@ -595,7 +417,7 @@
       "version": "0.2.2",
       "author": "Invintex",
       "platform": "PC and Mac",
-      "file": "Vanilla+.pack",
+      "file": null,
       "link": "https://github.com/Invintex/Vanilla-Pack/releases/latest/download/Vanilla+.pack",
       "description": "This pack was made to complement vanilla Spaceflight Simulator gameplay.",
       "dependencies": []
@@ -615,7 +437,7 @@
       "version": "1.1",
       "author": "N204",
       "platform": "PC and Mac",
-      "file": "N2O4sDrogueChutes.pack",
+      "file": null,
       "link": "https://github.com/DinitrogenTetroxide/sfs-drogue-chutes/releases/latest/download/N2O4sDrogueChutes.pack",
       "description": "Adds drogue parachutes to the game for improved descent control.",
       "dependencies": []
@@ -625,7 +447,7 @@
       "version": "0.2.6",
       "author": "SFS Upgrades Rocket",
       "platform": "PC and Mac",
-      "file": "Realistic_Docking_Ports.pack",
+      "file": null,
       "link": "https://github.com/sfsupgrades/Realistic-Docking-Ports-NASA/releases/latest/download/Realistic_Docking_Ports.pack",
       "description": "NASA-style realistic docking ports for immersive gameplay.",
       "dependencies": []
@@ -635,7 +457,7 @@
       "version": "0.1.7",
       "author": "SFS Upgrades Rocket",
       "platform": "PC and Mac",
-      "file": "starlink_dish.pack",
+      "file": null,
       "link": "https://github.com/sfsupgrades/starlink-dish-custom-part/releases/latest/download/starlink_dish.pack",
       "description": "Adds Starlink communication dishes.",
       "dependencies": [
@@ -647,7 +469,7 @@
       "version": "0.6.1",
       "author": "Dahzito",
       "platform": "PC and Mac",
-      "file": "Dahzito.Custom.Engines.0.6.zTalls.Custom.2.pack",
+      "file": null,
       "link": "https://github.com/Dahzito/Dahzito-Custom-Engines-v0.6/releases/download/v0.6.1-zTalls.2/Dahzito.Custom.Engines.0.6.zTalls.Custom.2.pack",
       "description": "Large set of custom engines with varied performance and styles.",
       "dependencies": []
@@ -657,7 +479,7 @@
       "version": "1.0.0",
       "author": "Ludwig",
       "platform": "PC and Mac",
-      "file": "LurinsNewFuels.pack",
+      "file": null,
       "link": "https://github.com/Lurin-Lud/SFS-Lurin-New-Fuels/releases/latest/download/LurinsNewFuels.pack",
       "description": "Adds new rocket fuels for extended propulsion systems.",
       "dependencies": []
@@ -667,7 +489,7 @@
       "version": "0.3.0",
       "author": "Ludwig",
       "platform": "PC and Mac",
-      "file": "LurinsThings.pack",
+      "file": null,
       "link": "https://github.com/Lurin-Lud/SFS-Lurins-Things/releases/latest/download/LurinsThings.pack",
       "description": "Miscellaneous useful parts and utilities.",
       "dependencies": []
@@ -677,7 +499,7 @@
       "version": "1.0",
       "author": "Prime Aerospace",
       "platform": "PC and Mac",
-      "file": "PAE.V1.0.pack",
+      "file": null,
       "link": "https://github.com/Prime252/Prime-Aerospace-Engines/releases/download/1.0/PAE.V1.0.pack",
       "description": "A set of 9 custom engines with different designs.",
       "dependencies": []
@@ -687,7 +509,7 @@
       "version": "1.0.1",
       "author": "Prime Aerospace",
       "platform": "PC and Mac",
-      "file": "PACE.V1.0.pack",
+      "file": null,
       "link": "https://github.com/Prime252/Prime-Aerospace-Cursed-Engines/releases/download/1.0.1/PACE.V1.0.pack",
       "description": "Unusual and experimental engine designs.",
       "dependencies": []
@@ -697,7 +519,7 @@
       "version": "1.0",
       "author": "Prime Aerospace",
       "platform": "PC and Mac",
-      "file": "PAAEP.V1.0.pack",
+      "file": null,
       "link": "https://github.com/Prime252/Prime-Aerospace-Advanced-Engines-Pack/releases/download/1.0/PAAEP.V1.0.pack",
       "description": "Advanced propulsion systems for long missions.",
       "dependencies": []
@@ -707,7 +529,7 @@
       "version": "4.0",
       "author": "Prime Aerospace",
       "platform": "PC and Mac",
-      "file": "Phoenix.PAS.V4.0.pack",
+      "file": null,
       "link": "https://github.com/Prime252/Prime-Aerospace-Starships/releases/download/4.0/Phoenix.PAS.V4.0.pack",
       "description": "PAS adds almost all SpaceX rockets including Starships and Falcons",
       "dependencies": []
