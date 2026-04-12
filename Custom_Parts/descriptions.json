@@ -13,16 +13,6 @@
       "description": "Adds colonisation, ARPANET, and mining to sfs"
     },
     {
-      "name": "Procedual Parts",
-      "version": "1.2",
-      "author": "SFS.S9",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/oanoals9/Procedural-Parts-SFS/releases/download/v1.2/Procedural.Parts.v1.2.zip",
-      "dependencies": [],
-      "description": "Adds procedual parts to SFS."
-    },
-    {
       "name": "Better Parachutes by TSS",
       "version": "1.2.1",
       "author": "TechSky_Space",
