@@ -417,7 +417,7 @@
             "version": "1.0",
             "author": "Roshan",
             "platform": "PC and Mac",
-            "file": "null",
+            "file": null,
             "link": "https://github.com/RoshanGamer7791/ConsoleLogger/releases/latest/download/ConsoleLogger.dll",
             "description": "Something that logs things into the console for you",
             "dependencies": []
