@@ -24,9 +24,9 @@
     },
     {
       "name": "RSA Parts",
-      "version": "1.3",
-      "author": "roshan",
-      "platform": "PC and Mac",
+      "version": "1.4",
+      "author": "Roshan",
+      "platform": "PC and Mac and Mobile",
       "file": null,
       "link": "https://github.com/RoshanGamer7791/RSAParts/releases/latest/download/RSAParts.pack",
       "dependencies": [],
@@ -36,9 +36,9 @@
       "name": "Kiwi Main Engines",
       "version": "1.0.1",
       "author": "ssdcat",
-      "platform": "PC and Mac",
+      "platform": "PC and Mac and Mobile",
       "file": null,
-      "link": "https://github.com/ssdcatlabs/kiwi/releases/latest/download/KiwiEngines.pack",
+      "link": "https://github.com/ssdcatlabs/kiwi/releases/download/v1.4b3Public/kmem1.4Build3.pack",
       "dependencies": [],
       "description": "Adds a bunch of engines to the game."
     },
@@ -84,41 +84,41 @@
     },
     {
       "name": "Electricity Part Pack",
-      "version": "0.5",
+      "version": "1.0.1",
       "author": "N204",
-      "platform": "PC and Mac",
+      "platform": "PC and Mac and Mobile",
       "file": null,
-      "link": "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack",
+      "link": "https://github.com/VerdiX094/sfs-electricity/releases/download/v1.0.1/Electricity_v1.0.1.pack",
       "dependencies": [],
       "description": "Adds back the electricity system from 1.4"
     },
     {
       "name": "Star Motors Pack",
-      "version": "Beta 54",
+      "version": "1.0.0",
       "author": "Lemniscate Biscuit",
-      "platform": "PC and Mac",
+      "platform": "PC and Mac and Mobile",
       "file": null,
-      "link": "https://github.com/LemnscateBiscuit/Off-The-Shelf---Star-Motors/releases/download/Beta54/OTSStarBeta54.pack",
+      "link": "https://github.com/LemnscateBiscuit/Off-The-Shelf---Star-Motors/releases/download/v1.0/OTSStarv1.0.0.pack",
       "dependencies": [],
       "description": "Adds Star Motors to the game."
     },
     {
-      "name": "Advanced Cryogenic Engines",
-      "version": "1.15",
+      "name": "Advanced Chemical Engines",
+      "version": "2.0",
       "author": "Lemniscate Biscuit",
-      "platform": "PC and Mac",
+      "platform": "PC and Mac and Mobile",
       "file": null,
-      "link": "https://github.com/LemnscateBiscuit/AdvancedChemicalEngines/releases/download/v1.2/ACEv1.15.pack",
+      "link": "https://github.com/LemnscateBiscuit/AdvancedChemicalEngines/releases/download/v2.0/ACEv2.0.pack",
       "dependencies": [],
       "description": "Adds many modern or advanced engines to the game."
     },
     {
       "name": "RL Redux",
-      "version": "1.5.6.5",
+      "version": "1.6",
       "author": "Lemniscate Biscuit",
-      "platform": "PC and Mac",
+      "platform": "PC and Mac and Mobile",
       "file": null,
-      "link": "https://github.com/LemnscateBiscuit/RL10-Redux/releases/download/v1.5.6/RL10-Reduxv1.5.6.5.pack",
+      "link": "https://github.com/LemnscateBiscuit/RL10-Redux/releases/download/v1.6/RL10Reduxv1.6.pack",
       "dependencies": [],
       "description": "Adds the HUGE RL10 family to the game."
     },
@@ -134,11 +134,11 @@
     },
     {
       "name": "BR-Apollo",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "author": "Brioche",
-      "platform": "PC and Mac",
+      "platform": "PC and Mac and Mobile",
       "file": null,
-      "link": "https://github.com/briocherockets/BR-Apollo/releases/download/1.3.1/BR-Apollo_v1.3.pack",
+      "link": "https://github.com/briocherockets/BR-Apollo/releases/download/1.3.2/BR-Apollo_v1.3.2.pack",
       "dependencies": [],
       "description": "Adds Apollo Program Parts"
     },
@@ -150,7 +150,7 @@
       "file": "PicoSpace_Utility.pack",
       "link": null,
       "dependencies": [
-        "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
+        "https://github.com/VerdiX094/sfs-electricity/releases/download/v1.0.1/Electricity_v1.0.1.pack"
       ],
       "description": "A utility pack with a bunch of things like truss seperators and vertical landing gear"
     },
@@ -176,11 +176,11 @@
     },
     {
       "name": "Explorer's Ultimate Pack",
-      "version": "0.6",
+      "version": "0.9.2",
       "author": "QMSP",
-      "platform": "PC and Mac",
-      "file": "Explorer's Ultimate Pack v0.6.pack",
-      "link": null,
+      "platform": "PC and Mac and Mobile",
+      "file": null,
+      "link": "https://github.com/user-attachments/files/26115708/EUP.v0.9.2.zip",
       "description": "It is the explorers ultimate pack, which includes grid fins, electricity system and multiple engines and a drogue chute",
       "dependencies": []
     },
@@ -206,11 +206,11 @@
     },
     {
       "name": "Electron Pack",
-      "version": "1.1",
+      "version": "2.1",
       "author": "SenchQ",
-      "platform": "PC and Mac",
-      "file": "Electron-Pack-1.1.pack",
-      "link": null,
+      "platform": "PC and Mac and Mobile",
+      "file": null,
+      "link": "https://github.com/SenchQ/Electron-Pack-SFS-/releases/download/ElectronSFS2.1/Electron_V2.1.pack",
       "description": "It adds the electron rocket parts",
       "dependencies": []
     },
@@ -233,7 +233,7 @@
       "link": "https://github.com/Orion-CSAT/AEP/releases/download/v1.3.1/AEP.1.3.1.pack",
       "description": "Adds advanced engines for long journeys",
       "dependencies": [
-        "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
+        "https://github.com/VerdiX094/sfs-electricity/releases/download/v1.0.1/Electricity_v1.0.1.pack"
       ]
     },
     {
@@ -265,7 +265,7 @@
       "link": "https://github.com/Mac33299/Kerbal-Flight-Simulator/releases/download/1.1.0.1/KFS_1.1.0.1_Along_for_the_ride.pack",
       "description": "Adds KSP Parts into SFS",
       "dependencies": [
-        "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
+        "https://github.com/VerdiX094/sfs-electricity/releases/download/v1.0.1/Electricity_v1.0.1.pack"
       ]
     },
     {
@@ -302,9 +302,9 @@
     },
     {
       "name": "Lasers Mod",
-      "version": "1.0.0",
+      "version": "1.1",
       "author": "Wurnace",
-      "platform": "PC and Mac",
+      "platform": "PC and Mac and Mobile",
       "file": null,
       "link": "https://github.com/guunno/sfs-lasers/releases/latest/download/lasers.pack",
       "description": "Adds Lasers and Nukes to SFS",
@@ -329,7 +329,7 @@
       "link": "https://github.com/Mac33299/New-Horizons/releases/download/0.5.1/New.horizons.-.BR-Apollo.v0.5.1.pack",
       "description": "Addon for BR-Apollo | Adding cancelled-concept and more.",
       "dependencies": [
-        "https://github.com/briocherockets/BR-Apollo/releases/download/1.3.1/BR-Apollo_v1.3.pack"
+        "https://github.com/briocherockets/BR-Apollo/releases/download/1.3.2/BR-Apollo_v1.3.2.pack"
       ]
     },
     {
@@ -347,7 +347,7 @@
       "version": "1.0",
       "author": "NeptuneSky",
       "platform": "PC and Mac",
-      "file": null,
+      "file": "heatshieldtiles.pack",
       "link": null,
       "description": "Stackable heat shield tiles for custom heat shielding designs.",
       "dependencies": []
@@ -451,7 +451,7 @@
       "link": "https://github.com/sfsupgrades/starlink-dish-custom-part/releases/latest/download/starlink_dish.pack",
       "description": "Adds Starlink communication dishes.",
       "dependencies": [
-        "https://github.com/DinitrogenTetroxide/sfs-electricity/releases/download/v0.5/Electricity-v0.5.pack"
+        "https://github.com/VerdiX094/sfs-electricity/releases/download/v1.0.1/Electricity_v1.0.1.pack"
       ]
     },
     {

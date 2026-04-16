@@ -2,7 +2,7 @@
   "mods": [
     {
       "name": "Vanilla Upgrades",
-      "version": "5.3",
+      "version": "5.3.1.3",
       "author": "NeptuneSky",
       "platform": "PC and Mac",
       "file": null,
@@ -52,7 +52,7 @@
     },
     {
       "name": "Thrust Assist",
-      "version": "0.7",
+      "version": "1.0",
       "author": "Darthan",
       "platform": "PC and Mac",
       "file": null,
@@ -62,11 +62,11 @@
     },
     {
       "name": "Action Groups Mod",
-      "version": "1.3",
+      "version": "1.5-beta",
       "author": "Astro The Rabbit",
       "platform": "PC and Mac",
       "file": null,
-      "link": "https://github.com/AstroTheRabbit/Action-Groups-Mod-SFS/releases/latest/download/ActionGroupsMod.dll",
+      "link": "https://github.com/AstroTheRabbit/Action-Groups-Mod-SFS/releases/download/v1.5-beta/ActionGroupsMod.dll",
       "description": "Adds KSP like Action Groups to SFS",
       "dependencies": [
         "https://github.com/AstroTheRabbit/Custom-Save-Data-SFS/releases/latest/download/CustomSaveData.dll"
@@ -74,7 +74,7 @@
     },
     {
       "name": "Custom Save Data",
-      "version": "1.0",
+      "version": "1.4",
       "author": "Astro The Rabbit",
       "platform": "PC and Mac",
       "file": null,
@@ -84,7 +84,7 @@
     },
     {
       "name": "Smart SAS",
-      "version": "1.7",
+      "version": "2.2",
       "author": "Astro The Rabbit",
       "platform": "PC and Mac",
       "file": null,
@@ -94,7 +94,7 @@
     },
     {
       "name": "Info Overload",
-      "version": "2.4",
+      "version": "2.9",
       "author": "Fusion Space Industries",
       "platform": "PC and Mac",
       "file": null,
@@ -144,7 +144,7 @@
     },
     {
       "name": "Alternate Space Center support for custom solar systems",
-      "version": "1.1.1",
+      "version": "1.3",
       "author": "Darthan",
       "platform": "PC and Mac",
       "file": null,
@@ -265,7 +265,7 @@
     },
     {
       "name": "Warpinator",
-      "version": "0.8.3-alpha",
+      "version": "0.8.4-alpha",
       "author": "NeptuneSky",
       "platform": "PC and Mac",
       "file": null,
@@ -295,7 +295,7 @@
     },
     {
       "name": "Part Text",
-      "version": "1.1",
+      "version": "1.3",
       "author": "Astro The Rabbit",
       "platform": "PC and Mac",
       "file": null,
@@ -375,7 +375,7 @@
     },
     {
       "name": "Custom Challenges Mod",
-      "version": "1.0",
+      "version": "1.3",
       "author": "Darthan",
       "platform": "PC and Mac",
       "file": null,
@@ -395,11 +395,11 @@
     },
     {
       "name": "Stages Expanded",
-      "version": "1.1",
+      "version": "1.4-beta",
       "author": "Astro The Rabbit",
       "platform": "PC and Mac",
       "file": null,
-      "link": "https://github.com/AstroTheRabbit/Stages-Expanded-Mod-SFS/releases/latest/download/StagesExpanded.dll",
+      "link": "hhttps://github.com/AstroTheRabbit/Stages-Expanded-Mod-SFS/releases/download/v1.4-beta/StagesExpanded.dll",
       "description": "Displays stage stats",
       "dependencies": []
     },
