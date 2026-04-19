@@ -411,16 +411,6 @@
       "link": "https://github.com/AstroTheRabbit/Physics-Range-Extender-SFS/releases/latest/download/PhysicsRangeExtender.dll",
       "description": "Extends physics range",
       "dependencies": []
-    },
-    {
-      "name": "Console Logger",
-      "version": "0.1",
-      "author": "Roshan",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/RoshanGamer7791/ConsoleLogger/releases/latest/download/ConsoleLogger.dll",
-      "description": "Something that logs things into the console for you",
-      "dependencies": []
     }
   ]
 }
