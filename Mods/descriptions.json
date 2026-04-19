@@ -1,416 +1,426 @@
 {
-  "mods": [
-    {
-      "name": "Vanilla Upgrades",
-      "version": "5.3",
-      "author": "NeptuneSky",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Neptune-Sky/SFSVanillaUpgrades/releases/latest/download/VanillaUpgrades.dll",
-      "description": "Improves the vanilla experience by adding quality of life features",
-      "dependencies": []
-    },
-    {
-      "name": "ANAIS",
-      "version": "1.4.2",
-      "author": "Altiar",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Kaskouy/ANAIS/releases/latest/download/ANAIS.dll",
-      "description": "Replaces the stock navigation system with a more elaborated one",
-      "dependencies": []
-    },
-    {
-      "name": "Textureable",
-      "version": "0.2.1-beta",
-      "author": "NeptuneSky",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Neptune-Sky/SFSTexturable/releases/latest/download/Texturable.dll",
-      "description": "Makes more parts texturable like parachutes, docking ports and all of that",
-      "dependencies": []
-    },
-    {
-      "name": "Aero Trajectory",
-      "version": "1.4",
-      "author": "Astro The Rabbit",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/AstroTheRabbit/Aero-Trajectory-SFS/releases/latest/download/AeroTrajectory.dll",
-      "description": "Shows you the trajectory you will have in an atmosphere",
-      "dependencies": []
-    },
-    {
-      "name": "Part Editor",
-      "version": "1.0",
-      "author": "Cucumber Space",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/cucumber-sp/PartEditor/releases/latest/download/PartEditor.dll",
-      "description": "It is bp editing in game",
-      "dependencies": []
-    },
-    {
-      "name": "Thrust Assist",
-      "version": "0.7",
-      "author": "Darthan",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Darthan184/Thrust-Assist-SFS1/releases/latest/download/ThrustAssistMod.dll",
-      "description": "It helps you land and land at a target",
-      "dependencies": []
-    },
-    {
-      "name": "Action Groups Mod",
-      "version": "1.3",
-      "author": "Astro The Rabbit",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/AstroTheRabbit/Action-Groups-Mod-SFS/releases/latest/download/ActionGroupsMod.dll",
-      "description": "Adds KSP like Action Groups to SFS",
-      "dependencies": [
-        "https://github.com/AstroTheRabbit/Custom-Save-Data-SFS/releases/latest/download/CustomSaveData.dll"
-      ]
-    },
-    {
-      "name": "Custom Save Data",
-      "version": "1.0",
-      "author": "Astro The Rabbit",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/AstroTheRabbit/Custom-Save-Data-SFS/releases/latest/download/CustomSaveData.dll",
-      "description": "A Mod that allows for the saving and loading of custom modded data to rockets and blueprints",
-      "dependencies": []
-    },
-    {
-      "name": "Smart SAS",
-      "version": "1.7",
-      "author": "Astro The Rabbit",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/pixelgaming579/Smart-SAS-Mod-SFS/releases/latest/download/SmartSASMod.dll",
-      "description": "Adds Smart SAS that is able to lock onto Prograde, Retrograde, Surface and Target Nodes",
-      "dependencies": []
-    },
-    {
-      "name": "Info Overload",
-      "version": "2.4",
-      "author": "Fusion Space Industries",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/AstroTheRabbit/FSI-Info-Overload-Mod-SFS/releases/latest/download/InfoOverload.dll",
-      "description": "Shows you alot of information about whats going on in your world",
-      "dependencies": []
-    },
-    {
-      "name": "Hyperwarp",
-      "version": "1.0",
-      "author": "ssdcat/StarSubject",
-      "platform": "PC and Mac",
-      "file": "Hyperwarp.dll",
-      "link": null,
-      "description": "Lets you go up to 1000x Physics Timewarp",
-      "dependencies": []
-    },
-    {
-      "name": "Random Failures Legacy",
-      "version": "1.0.0",
-      "author": "TheAlgorithm476",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/TheAlgorithm476/RandomFailuresLegacy/releases/latest/download/RandomFailuresLegacy.dll",
-      "description": "Adds a random small chance of an engine failing to ignite, or having an in-flight failure.",
-      "dependencies": []
-    },
-    {
-      "name": "Colored Orbits",
-      "version": "1.0",
-      "author": "Altiar",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Kaskouy/Colored-Orbits/releases/latest/download/ColoredOrbits.dll",
-      "description": "Makes the orbits colored so you could see them better",
-      "dependencies": []
-    },
-    {
-      "name": "Delta V Calculator",
-      "version": "1.0",
-      "author": "Altiar",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Kaskouy/SFS-DeltaV-calculator/releases/latest/download/DeltaV_Calculator.dll",
-      "description": "Shows your ingame Delta V",
-      "dependencies": []
-    },
-    {
-      "name": "Alternate Space Center support for custom solar systems",
-      "version": "1.1.1",
-      "author": "Darthan",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Darthan184/Multi-Launchpad-SFS1/releases/download/v1.1.1/MultiLaunchpadMod.dll",
-      "description": "Allows for multiple space centers in a custom solar system",
-      "dependencies": []
-    },
-    {
-      "name": "Colour Resources Bar",
-      "version": "1.0",
-      "author": "SFSGamer-bili",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/SFSPlayer-sys/ColorResBar/releases/latest/download/ColorResBar.dll",
-      "description": "Adds colour to the resource bars in game",
-      "dependencies": []
-    },
-    {
-      "name": "Discord Rich Presence",
-      "version": "1.1",
-      "author": "N204",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/VerdiX094/RichPresenceSFS/releases/latest/download/RichPresenceSFS.dll",
-      "description": "Adds Discord rich presence to SFS",
-      "dependencies": []
-    },
-    {
-      "name": "ALPACA - Mod Installer",
-      "version": "1.3",
-      "author": "ssdcat/Starsubject",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/ssdcat/ALPACA/releases/download/Newupdates/ALPACA.dll",
-      "description": "In-game mod installer for SFS",
-      "dependencies": []
-    },
-    {
-      "name": "Blueprint Image",
-      "version": "1.1",
-      "author": "SFSGamer-bili",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/SFSPlayer-sys/BlueprintImage/releases/latest/download/BlueprintImage.dll",
-      "description": "Allows you to export blueprints as images",
-      "dependencies": []
-    },
-    {
-      "name": "Translation Mod",
-      "version": "1.0.1",
-      "author": "SFSGamer-bili",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/SFSPlayer-sys/TranslationMod/releases/latest/download/Translation.dll",
-      "description": "Allows you to use translations in SFS PC",
-      "dependencies": []
-    },
-    {
-      "name": "Burn Editor",
-      "version": "1.0.3",
-      "author": "SFSGamer-bili",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/SFSPlayer-sys/BurnEditor/releases/download/BurnEditor.dll",
-      "description": "Adds real time burn editing in SFS",
-      "dependencies": []
-    },
-    {
-      "name": "SFS APIs",
-      "version": "1.2",
-      "author": "SFSGamer-bili",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/SFSPlayer-sys/SFSControl/releases/latest/downloadSFSControl.dll",
-      "description": "Adds an API for external scripts",
-      "dependencies": []
-    },
-    {
-      "name": "Enchanced Settings",
-      "version": "1.0.0",
-      "author": "SFSGamer-bili",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/SFSPlayer-sys/Enhancedsettings/releases/latest/download/Enhanced.settings.dll",
-      "description": "Extends SFS settings",
-      "dependencies": []
-    },
-    {
-      "name": "Gliding Heat Shields",
-      "version": "1.4",
-      "author": "Altiar",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Kaskouy/SFS-Gliding-heat-shields/releases/latest/download/GlidingHeatShields.dll",
-      "description": "Gives heat shields lift capability",
-      "dependencies": []
-    },
-    {
-      "name": "Custom Music",
-      "version": "2.0.2",
-      "author": "NeptuneSky",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Neptune-Sky/SFSCustomMusic/releases/latest/download/CustomMusic.dll",
-      "description": "Allows loading custom music",
-      "dependencies": []
-    },
-    {
-      "name": "Build Screen Utilities",
-      "version": "1.1",
-      "author": "NeptuneSky",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Neptune-Sky/SFSBuildGridUtils/releases/latest/download/BuildGridUtils.dll",
-      "description": "Customizes build grid",
-      "dependencies": []
-    },
-    {
-      "name": "Warpinator",
-      "version": "0.8.3-alpha",
-      "author": "NeptuneSky",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Neptune-Sky/SFSWarpinator/releases/latest/download/Warpinator.dll",
-      "description": "Advanced teleport mod",
-      "dependencies": []
-    },
-    {
-      "name": "SFS Build Settings",
-      "version": "2.1.5.1",
-      "author": "NeptuneSky",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Neptune-Sky/SFSBuildSettings/releases/latest/download/BuildSettings.dll",
-      "description": "Adds build settings like snap to grid",
-      "dependencies": []
-    },
-    {
-      "name": "SFS Zoom Keys",
-      "version": "1.0.3",
-      "author": "NeptuneSky",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Neptune-Sky/SFSZoomKeys/releases/latest/download/SFSZoomKeys.dll",
-      "description": "Adds zoom keybinds",
-      "dependencies": []
-    },
-    {
-      "name": "Part Text",
-      "version": "1.1",
-      "author": "Astro The Rabbit",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/AstroTheRabbit/Part-Text-Mod-SFS/releases/latest/download/PartText.dll",
-      "description": "Allows editing part JSON",
-      "dependencies": []
-    },
-    {
-      "name": "Forceful Fuel Tanks",
-      "version": "1.0",
-      "author": "Astro The Rabbit",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/pixelgaming579/Forceful-Fuel-Tanks-SFS/releases/latest/download/ForcefulFuelTanks.dll",
-      "description": "Explosive fuel tank effects",
-      "dependencies": []
-    },
-    {
-      "name": "Object Search Mod",
-      "version": "1.0",
-      "author": "IDOMDOTCOM",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/IDOMDOTCOM/SFS-Object-Search-Mod/releases/latest/download/Object.Search.dll",
-      "description": "Search and focus on planets",
-      "dependencies": []
-    },
-    {
-      "name": "Image Cover Mod",
-      "version": "1.0.1",
-      "author": "AstarLC",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/AstarLC4036/ImageCoverMod/releases/latest/download/ImageCoverMod.dll",
-      "description": "Loads images into build scene",
-      "dependencies": []
-    },
-    {
-      "name": "Frame Rate Lock Mod",
-      "version": "1.0.1",
-      "author": "DarkSpace",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/DarkSpaceY/FrameRateLockMod/releases/latest/download/FrameLockMod.dll",
-      "description": "Locks frame rate",
-      "dependencies": []
-    },
-    {
-      "name": "More Commands in Console",
-      "version": "1.0.0",
-      "author": "DarkSpace",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/DarkSpaceY/ConsoleMOD/releases/latest/download/ConsoleMOD.dll",
-      "description": "Adds console commands",
-      "dependencies": []
-    },
-    {
-      "name": "Teleporter Mod",
-      "version": "2.0",
-      "author": "N204",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/DinitrogenTetroxide/TeleporterMod/releases/latest/download/Teleporter.dll",
-      "description": "Teleports rockets",
-      "dependencies": []
-    },
-    {
-      "name": "Spaceflight Simulator: Australia Edition (APRIL FOOLS 2025)",
-      "version": "April Fools Edition",
-      "author": "N204",
-      "platform": "PC and Mac",
-      "file": "UpsideDown2025.dll",
-      "link": null,
-      "description": "Upside down gameplay",
-      "dependencies": []
-    },
-    {
-      "name": "Custom Challenges Mod",
-      "version": "1.0",
-      "author": "Darthan",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/Darthan184/Custom-Challenges-SFS1/releases/latest/CustomChallengesMod.dll",
-      "description": "Adds custom challenges",
-      "dependencies": []
-    },
-    {
-      "name": "Show All Orbit Lines",
-      "version": "1.0",
-      "author": "SFSGamer-bili",
-      "platform": "PC and Mac",
-      "file": "ShowAllOrbitLines.dll",
-      "link": null,
-      "description": "Shows all orbit lines",
-      "dependencies": []
-    },
-    {
-      "name": "Stages Expanded",
-      "version": "1.1",
-      "author": "Astro The Rabbit",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/AstroTheRabbit/Stages-Expanded-Mod-SFS/releases/latest/download/StagesExpanded.dll",
-      "description": "Displays stage stats",
-      "dependencies": []
-    },
-    {
-      "name": "Physics Range Extender",
-      "version": "1.0",
-      "author": "Astro The Rabbit",
-      "platform": "PC and Mac",
-      "file": null,
-      "link": "https://github.com/AstroTheRabbit/Physics-Range-Extender-SFS/releases/latest/download/PhysicsRangeExtender.dll",
-      "description": "Extends physics range",
-      "dependencies": []
-    }
-  ]
+    "mods": [
+        {
+            "name": "Vanilla Upgrades",
+            "version": "5.3",
+            "author": "NeptuneSky",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/Neptune-Sky/SFSVanillaUpgrades/releases/latest/download/VanillaUpgrades.dll",
+            "description": "Improves the vanilla experience by adding quality of life features",
+            "dependencies": []
+        },
+        {
+            "name": "ANAIS",
+            "version": "1.4.2",
+            "author": "Altiar",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/Kaskouy/ANAIS/releases/latest/download/ANAIS.dll",
+            "description": "Replaces the stock navigation system with a more elaborated one",
+            "dependencies": []
+        },
+        {
+            "name": "Textureable",
+            "version": "0.2.1-beta",
+            "author": "NeptuneSky",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/Neptune-Sky/SFSTexturable/releases/latest/download/Texturable.dll",
+            "description": "Makes more parts texturable like parachutes, docking ports and all of that",
+            "dependencies": []
+        },
+        {
+            "name": "Aero Trajectory",
+            "version": "1.4",
+            "author": "Astro The Rabbit",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/AstroTheRabbit/Aero-Trajectory-SFS/releases/latest/download/AeroTrajectory.dll",
+            "description": "Shows you the trajectory you will have in an atmosphere",
+            "dependencies": []
+        },
+        {
+            "name": "Part Editor",
+            "version": "1.0",
+            "author": "Cucumber Space",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/cucumber-sp/PartEditor/releases/latest/download/PartEditor.dll",
+            "description": "It is bp editing in game",
+            "dependencies": []
+        },
+        {
+            "name": "Thrust Assist",
+            "version": "0.7",
+            "author": "Darthan",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/Darthan184/Thrust-Assist-SFS1/releases/latest/download/ThrustAssistMod.dll",
+            "description": "It helps you land and land at a target",
+            "dependencies": []
+        },
+        {
+            "name": "Action Groups Mod",
+            "version": "1.3",
+            "author": "Astro The Rabbit",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/AstroTheRabbit/Action-Groups-Mod-SFS/releases/latest/download/ActionGroupsMod.dll",
+            "description": "Adds KSP like Action Groups to SFS",
+            "dependencies": [
+                "https://github.com/AstroTheRabbit/Custom-Save-Data-SFS/releases/latest/download/CustomSaveData.dll"
+            ]
+        },
+        {
+            "name": "Custom Save Data",
+            "version": "1.0",
+            "author": "Astro The Rabbit",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/AstroTheRabbit/Custom-Save-Data-SFS/releases/latest/download/CustomSaveData.dll",
+            "description": "A Mod that allows for the saving and loading of custom modded data to rockets and blueprints",
+            "dependencies": []
+        },
+        {
+            "name": "Smart SAS",
+            "version": "1.7",
+            "author": "Astro The Rabbit",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/pixelgaming579/Smart-SAS-Mod-SFS/releases/latest/download/SmartSASMod.dll",
+            "description": "Adds Smart SAS that is able to lock onto Prograde, Retrograde, Surface and Target Nodes",
+            "dependencies": []
+        },
+        {
+            "name": "Info Overload",
+            "version": "2.4",
+            "author": "Fusion Space Industries",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/AstroTheRabbit/FSI-Info-Overload-Mod-SFS/releases/latest/download/InfoOverload.dll",
+            "description": "Shows you alot of information about whats going on in your world",
+            "dependencies": []
+        },
+        {
+            "name": "Hyperwarp",
+            "version": "1.0",
+            "author": "ssdcat/StarSubject",
+            "platform": "PC and Mac",
+            "file": "Hyperwarp.dll",
+            "link": null,
+            "description": "Lets you go up to 1000x Physics Timewarp",
+            "dependencies": []
+        },
+        {
+            "name": "Random Failures Legacy",
+            "version": "1.0.0",
+            "author": "TheAlgorithm476",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/TheAlgorithm476/RandomFailuresLegacy/releases/latest/download/RandomFailuresLegacy.dll",
+            "description": "Adds a random small chance of an engine failing to ignite, or having an in-flight failure.",
+            "dependencies": []
+        },
+        {
+            "name": "Colored Orbits",
+            "version": "1.0",
+            "author": "Altiar",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/Kaskouy/Colored-Orbits/releases/latest/download/ColoredOrbits.dll",
+            "description": "Makes the orbits colored so you could see them better",
+            "dependencies": []
+        },
+        {
+            "name": "Delta V Calculator",
+            "version": "1.0",
+            "author": "Altiar",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/Kaskouy/SFS-DeltaV-calculator/releases/latest/download/DeltaV_Calculator.dll",
+            "description": "Shows your ingame Delta V",
+            "dependencies": []
+        },
+        {
+            "name": "Alternate Space Center support for custom solar systems",
+            "version": "1.1.1",
+            "author": "Darthan",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/Darthan184/Multi-Launchpad-SFS1/releases/download/v1.1.1/MultiLaunchpadMod.dll",
+            "description": "Allows for multiple space centers in a custom solar system",
+            "dependencies": []
+        },
+        {
+            "name": "Colour Resources Bar",
+            "version": "1.0",
+            "author": "SFSGamer-bili",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/SFSPlayer-sys/ColorResBar/releases/latest/download/ColorResBar.dll",
+            "description": "Adds colour to the resource bars in game",
+            "dependencies": []
+        },
+        {
+            "name": "Discord Rich Presence",
+            "version": "1.1",
+            "author": "N204",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/VerdiX094/RichPresenceSFS/releases/latest/download/RichPresenceSFS.dll",
+            "description": "Adds Discord rich presence to SFS",
+            "dependencies": []
+        },
+        {
+            "name": "ALPACA - Mod Installer",
+            "version": "1.3",
+            "author": "ssdcat/Starsubject",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/ssdcat/ALPACA/releases/download/Newupdates/ALPACA.dll",
+            "description": "In-game mod installer for SFS",
+            "dependencies": []
+        },
+        {
+            "name": "Blueprint Image",
+            "version": "1.1",
+            "author": "SFSGamer-bili",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/SFSPlayer-sys/BlueprintImage/releases/latest/download/BlueprintImage.dll",
+            "description": "Allows you to export blueprints as images",
+            "dependencies": []
+        },
+        {
+            "name": "Translation Mod",
+            "version": "1.0.1",
+            "author": "SFSGamer-bili",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/SFSPlayer-sys/TranslationMod/releases/latest/download/Translation.dll",
+            "description": "Allows you to use translations in SFS PC",
+            "dependencies": []
+        },
+        {
+            "name": "Burn Editor",
+            "version": "1.0.3",
+            "author": "SFSGamer-bili",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/SFSPlayer-sys/BurnEditor/releases/download/BurnEditor.dll",
+            "description": "Adds real time burn editing in SFS",
+            "dependencies": []
+        },
+        {
+            "name": "SFS APIs",
+            "version": "1.2",
+            "author": "SFSGamer-bili",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/SFSPlayer-sys/SFSControl/releases/latest/downloadSFSControl.dll",
+            "description": "Adds an API for external scripts",
+            "dependencies": []
+        },
+        {
+            "name": "Enchanced Settings",
+            "version": "1.0.0",
+            "author": "SFSGamer-bili",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/SFSPlayer-sys/Enhancedsettings/releases/latest/download/Enhanced.settings.dll",
+            "description": "Extends SFS settings",
+            "dependencies": []
+        },
+        {
+            "name": "Gliding Heat Shields",
+            "version": "1.4",
+            "author": "Altiar",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/Kaskouy/SFS-Gliding-heat-shields/releases/latest/download/GlidingHeatShields.dll",
+            "description": "Gives heat shields lift capability",
+            "dependencies": []
+        },
+        {
+            "name": "Custom Music",
+            "version": "2.0.2",
+            "author": "NeptuneSky",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/Neptune-Sky/SFSCustomMusic/releases/latest/download/CustomMusic.dll",
+            "description": "Allows loading custom music",
+            "dependencies": []
+        },
+        {
+            "name": "Build Screen Utilities",
+            "version": "1.1",
+            "author": "NeptuneSky",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/Neptune-Sky/SFSBuildGridUtils/releases/latest/download/BuildGridUtils.dll",
+            "description": "Customizes build grid",
+            "dependencies": []
+        },
+        {
+            "name": "Warpinator",
+            "version": "0.8.3-alpha",
+            "author": "NeptuneSky",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/Neptune-Sky/SFSWarpinator/releases/latest/download/Warpinator.dll",
+            "description": "Advanced teleport mod",
+            "dependencies": []
+        },
+        {
+            "name": "SFS Build Settings",
+            "version": "2.1.5.1",
+            "author": "NeptuneSky",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/Neptune-Sky/SFSBuildSettings/releases/latest/download/BuildSettings.dll",
+            "description": "Adds build settings like snap to grid",
+            "dependencies": []
+        },
+        {
+            "name": "SFS Zoom Keys",
+            "version": "1.0.3",
+            "author": "NeptuneSky",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/Neptune-Sky/SFSZoomKeys/releases/latest/download/SFSZoomKeys.dll",
+            "description": "Adds zoom keybinds",
+            "dependencies": []
+        },
+        {
+            "name": "Part Text",
+            "version": "1.1",
+            "author": "Astro The Rabbit",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/AstroTheRabbit/Part-Text-Mod-SFS/releases/latest/download/PartText.dll",
+            "description": "Allows editing part JSON",
+            "dependencies": []
+        },
+        {
+            "name": "Forceful Fuel Tanks",
+            "version": "1.0",
+            "author": "Astro The Rabbit",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/pixelgaming579/Forceful-Fuel-Tanks-SFS/releases/latest/download/ForcefulFuelTanks.dll",
+            "description": "Explosive fuel tank effects",
+            "dependencies": []
+        },
+        {
+            "name": "Object Search Mod",
+            "version": "1.0",
+            "author": "IDOMDOTCOM",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/IDOMDOTCOM/SFS-Object-Search-Mod/releases/latest/download/Object.Search.dll",
+            "description": "Search and focus on planets",
+            "dependencies": []
+        },
+        {
+            "name": "Image Cover Mod",
+            "version": "1.0.1",
+            "author": "AstarLC",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/AstarLC4036/ImageCoverMod/releases/latest/download/ImageCoverMod.dll",
+            "description": "Loads images into build scene",
+            "dependencies": []
+        },
+        {
+            "name": "Frame Rate Lock Mod",
+            "version": "1.0.1",
+            "author": "DarkSpace",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/DarkSpaceY/FrameRateLockMod/releases/latest/download/FrameLockMod.dll",
+            "description": "Locks frame rate",
+            "dependencies": []
+        },
+        {
+            "name": "More Commands in Console",
+            "version": "1.0.0",
+            "author": "DarkSpace",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/DarkSpaceY/ConsoleMOD/releases/latest/download/ConsoleMOD.dll",
+            "description": "Adds console commands",
+            "dependencies": []
+        },
+        {
+            "name": "Teleporter Mod",
+            "version": "2.0",
+            "author": "N204",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/DinitrogenTetroxide/TeleporterMod/releases/latest/download/Teleporter.dll",
+            "description": "Teleports rockets",
+            "dependencies": []
+        },
+        {
+            "name": "Spaceflight Simulator: Australia Edition (APRIL FOOLS 2025)",
+            "version": "April Fools Edition",
+            "author": "N204",
+            "platform": "PC and Mac",
+            "file": "UpsideDown2025.dll",
+            "link": null,
+            "description": "Upside down gameplay",
+            "dependencies": []
+        },
+        {
+            "name": "Custom Challenges Mod",
+            "version": "1.0",
+            "author": "Darthan",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/Darthan184/Custom-Challenges-SFS1/releases/latest/CustomChallengesMod.dll",
+            "description": "Adds custom challenges",
+            "dependencies": []
+        },
+        {
+            "name": "Show All Orbit Lines",
+            "version": "1.0",
+            "author": "SFSGamer-bili",
+            "platform": "PC and Mac",
+            "file": "ShowAllOrbitLines.dll",
+            "link": null,
+            "description": "Shows all orbit lines",
+            "dependencies": []
+        },
+        {
+            "name": "Stages Expanded",
+            "version": "1.1",
+            "author": "Astro The Rabbit",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/AstroTheRabbit/Stages-Expanded-Mod-SFS/releases/latest/download/StagesExpanded.dll",
+            "description": "Displays stage stats",
+            "dependencies": []
+        },
+        {
+            "name": "Physics Range Extender",
+            "version": "1.0",
+            "author": "Astro The Rabbit",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/AstroTheRabbit/Physics-Range-Extender-SFS/releases/latest/download/PhysicsRangeExtender.dll",
+            "description": "Extends physics range",
+            "dependencies": []
+        },
+        {
+            "name": "Console Logger",
+            "version": "1.0",
+            "author": "Roshan",
+            "platform": "PC and Mac",
+            "file": null,
+            "link": "https://github.com/RoshanGamer7791/ConsoleLogger/releases/latest/download/ConsoleLogger.dll",
+            "description": "This mod logs things into the console or shows you a message on the world scene.",
+            "dependencies": []
+        }
+    ]
 }
